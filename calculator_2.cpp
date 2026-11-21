@@ -5,11 +5,7 @@ int main(){
 
     int a;
     int b;
-    int sum;
-    int difference;
-    int product;
-    int division;
-    int modulo;
+    int sum,difference, product, division,modulo;
     char oper;
 
     cout<<"Enter your first number: ";
@@ -42,7 +38,5 @@ int main(){
         modulo = a%b;
         cout<<modulo;
     }
-
-
     return 0;
 }
