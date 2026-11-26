@@ -9,7 +9,7 @@ int main(){
     char oper;
     
     for(int i = 1; i<=100;i++){
-        cout<<"Enter your first number: ";
+    cout<<"Enter your first number: ";
     cin>>a;
     cout<<"Enter your operator: ";
     cin>>oper;
